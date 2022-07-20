@@ -1,2 +1,4 @@
-# new
- repositório para testes do curso
+# Novo
+ Repositório para teste.
+
+ Repositório criado durante um curso que eu fiz.
